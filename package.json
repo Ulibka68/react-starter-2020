@@ -44,6 +44,7 @@
     "prettier": "^2.2.0",
     "react-docgen-typescript-loader": "^3.7.2",
     "redux-logger": "^3.0.6",
+    "style-loader": "^2.0.0",
     "tsconfig-paths": "^3.9.0",
     "tsconfig-paths-webpack-plugin": "^3.3.0",
     "typescript": "^4.1.2",
